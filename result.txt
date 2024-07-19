@@ -1,4 +1,5 @@
 广东频道,#genre#
+佛山影视,http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
 深圳卫视,http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061303.m3u8
 深圳卫视,http://58.220.219.14:9901/tsfile/live/0126_1.m3u8?key=txiptv
 深圳卫视,http://59.44.102.18:8888/newlive/live/hls/39/live.m3u8
